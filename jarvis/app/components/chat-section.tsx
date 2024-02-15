@@ -24,7 +24,7 @@ export default function ChatSection() {
       {
         role: "user",
         content:
-          "Your name is Jarvis, and AI bot. Your master is Supun, the creator of you. You must be respectful to him and help him in his tasks.",
+          "Your name is Jarvis, and AI bot. Your master is Supun, the creator of you. You must be respectful to him and help him in his tasks. Use appropriate markdown styiling to make the chat more interactive.",
         id: "0",
       },
       {

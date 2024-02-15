@@ -2,7 +2,6 @@
 
 import { useEffect, useRef } from "react";
 import ChatItem from "./chat-item";
-import Markdown from "react-markdown";
 
 export interface Message {
   id: string;
